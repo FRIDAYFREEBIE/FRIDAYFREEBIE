@@ -20,7 +20,6 @@
   ### :😄: Student aiming to become game developer.
   ### :🏫: Attending korea animation high school.
   <br/>
-  <br/>
   
   ## 💻 Tech Stack
   ### Language
