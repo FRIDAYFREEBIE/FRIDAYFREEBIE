@@ -16,7 +16,7 @@
   ## 🧱 Tech Stack
   ### Language
   <!--C#-->
-  <img src="help/badge1.svg" alt=csharp style="vertical-align:top margin:6px 4px">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <!--C++-->
   <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <br/>
