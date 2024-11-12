@@ -9,8 +9,10 @@
   <!--Body-->
   
   ## 💻 My Stat
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fridayfreebie)](https://solved.ac/fridayfreebie/)
+  <!--GitHub stats-->
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FRIDAYFREEBIE)](https://github.com/anuraghazra/github-readme-stats)
+  <!--Solved.ac-->
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fridayfreebie)](https://solved.ac/fridayfreebie/)
   <br/>
   <br/>
   
