@@ -16,8 +16,8 @@
   <br/>
   <br/>
   
-  ## 👀 About Me
-  ### :😀: I am student aiming to become game developer.<br/>
+  ## 😀 About Me
+  ### I am student aiming to become game developer.<br/>
   <br/>
   <br/>
   
