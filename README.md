@@ -34,8 +34,7 @@
   <br/>
 
   ## 💻 solved.ac
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=fridayfreebie)](https://solved.ac/fridayfreebie)
-  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fridayfreebie)](https://solved.ac/fridayfreebie/)
   ## 👍 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FRIDAYFREEBIE)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
