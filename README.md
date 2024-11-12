@@ -9,7 +9,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :👍: I am student aiming to become game developers.<br/>
+  #### :😀: I am student aiming to become game developers.<br/>
   <br/>
   <br/>
   
