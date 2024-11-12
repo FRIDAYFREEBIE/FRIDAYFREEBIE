@@ -33,7 +33,7 @@
   <br/>
   <br/>
 
-  ## Solved.ac
+  ## 💻 solved.ac
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=fridayfreebie)](https://solved.ac/fridayfreebie)
   
   ## 👍 Github Stats
