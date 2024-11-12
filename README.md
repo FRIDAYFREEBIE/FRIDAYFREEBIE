@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <br/>
   
   ### Engine
   <!--Unity-->
@@ -44,9 +45,5 @@
 
   ## 🏆 Awards
   <!--게임대전-->
-  ### :: 2023 청강 게임대전 with Unity 기획부문 동상 수상iv>
-  
-  <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=venom&&color=auto&height=300&section=header&text=Welcome%20to%20Yubin's%20Github%20👋&fontSize=40)
-  
-</div>
+  ### :🥉: 2023 청강 게임대전 with Unity 동상(기획 분야) 수상
+  ### :🥇: 2024 청강 게임대전 with Unity 대상(프로그래밍 분야) 수상
