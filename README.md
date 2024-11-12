@@ -14,7 +14,6 @@
   <!--Solved.ac-->
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fridayfreebie)](https://solved.ac/fridayfreebie/)
   <br/>
-  <br/>
   
   ## 😀 About Me
   ### :😄: Student aiming to become game developer.
