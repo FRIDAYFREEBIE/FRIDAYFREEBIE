@@ -15,7 +15,6 @@
   <br/>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FRIDAYFREEBIE)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFRIDAYFREEBIE&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   <br/>
   
   ## 😀 About Me
@@ -48,3 +47,8 @@
   <!--게임대전-->
   ### :🥉: 2023 청강 게임대전 with Unity 동상(기획)
   ### :🥇: 2024 청강 게임대전 with Unity 대상(프로그래밍)
+  <br/>
+  <br/>
+
+  <!--방문자-->
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFRIDAYFREEBIE&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
