@@ -30,13 +30,16 @@
   <br/>
   
   ## 🙋‍♂️ About Me
-  ### 🎮 Student aiming to become **game developer**.
-  ### 🏫 Attending **Korea Animation High School**.
-  ### 🧠 Studying **PS as a hobby**.
+  ### 🎮 Student aiming to become **game developer**
+    - 
+  ### 🏫 Attending **Korea Animation High School**
+    - 
+  ### 🧠 Studying **PS as a hobby**
+    - 
   <br/>
   <br/>
   
-  ## 💻 Texh Stack
+  ## 🛠️ Tools I Use
   ### Programming Language
   <!--C#-->
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>  
@@ -58,9 +61,23 @@
   <br/>
   <br/>
 
+  ## 🚀 Current Projects
+  ### 🧠 [Algorithm Problem Solving](https://github.com/FRIDAYFREEBIE/Algorithm)
+  - **Goal**: Enhance problem-solving skills and programming proficiency through consistent practice.  
+  - **Started On**: 2024-8-27
+  - **Description**:  
+I’m not currently working on any game development projects. Instead, I’m dedicating my time to improving my foundational skills through algorithm problem-solving. This will ultimately help me approach future game projects with technical expertise.  
+  <br/>
+  <br/>
+
   ## 🏆 Awards
-  ### 🥉 2023 청강 게임대전 with Unity 동상 (기획, 청강문화산업대학교 주최)  
-  ### 🥇 2024 청강 게임대전 with Unity 대상 (프로그래밍, 청강문화산업대학교 주최)
+  ### 🥉 2023 청강 게임대전 with Unity - 동상
+  - **Category**: Game Planning  
+  - **Host**: ChungKang College of Cultural Industries
+  
+  ### 🥇 2024 청강 게임대전 with Unity - 대상
+  - **Category**: Game Programming
+  - **Host**: ChungKang College of Cultural Industries
   <br/>
   <br/>
 
