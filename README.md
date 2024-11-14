@@ -13,9 +13,9 @@
   
   <br/>
   
-## 📧 Contact Me  
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheepyubin06@gmail.com) 
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yubin1121)
+  ## 📧 Contact Me  
+  - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) **sheepyubin06@gmail.com**
+  - ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white) **yubin1121**
 
   <br/>
   <br/>
