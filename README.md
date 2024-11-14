@@ -54,5 +54,9 @@
   ### 🥉 2023 청강 게임대전 with Unity 동상 (기획, 청강문화산업대학교 주최)  
   ### 🥇 2024 청강 게임대전 with Unity 대상 (프로그래밍, 청강문화산업대학교 주최)
   <br/>
+  <br/>
+
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFRIDAYFREEBIE&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
+  <br/>
 
 </div>
