@@ -2,35 +2,22 @@
 
   <!--Header-->
   ![header](https://capsule-render.vercel.app/api?type=venom&&color=auto&height=300&section=header&text=Yubin's%20Github&fontSize=60)
+  
   <br/>
+
 </div>
 
 ---
 
 <div>
+  
   <br/>
+  
   <!--Body-->
   ## 📄 My Stat
-<div style="display: flex; justify-content: center; gap: 10px;">
-
-  <!-- GitHub Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=FRIDAYFREEBIE" alt="GitHub Stats" height="150">
-  </a>
-
-  <!-- Top Languages -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRIDAYFREEBIE&layout=compact&langs_count=6" alt="Top Languages" height="150">
-  </a>
-
-  <!-- Solved.ac -->
-  <a href="https://solved.ac/fridayfreebie">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fridayfreebie" alt="Solved.ac Profile" height="150">
-  </a>
-
-</div>
-
-
+  | GitHub Stats | Top Languages | Solved.ac |
+  |--------------|---------------|-----------|
+  | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FRIDAYFREEBIE)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FRIDAYFREEBIE&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fridayfreebie)](https://solved.ac/fridayfreebie) |
   <br/>
   <br/>
   
@@ -67,5 +54,7 @@
   ### 🥉 2023 청강 게임대전 Unity 동상 (기획, 청강문화산업대학교 주최)  
   ### 🥇 2024 청강 게임대전 Unity 대상 (프로그래밍, 청강문화산업대학교 주최)
   <br/>
+
+</div>
   
 ---
