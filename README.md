@@ -12,9 +12,10 @@
   <!--Body-->
   
   ## 📄 My Stat
-  <!--GitHub stats-->
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FRIDAYFREEBIE)](https://github.com/anuraghazra/github-readme-stats)  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FRIDAYFREEBIE&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+  | GitHub Stats | Top Languages |
+  |--------------|---------------|
+  | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FRIDAYFREEBIE)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FRIDAYFREEBIE&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) |
+
   <br/>
   <br/>
   
