@@ -18,7 +18,7 @@
   ### :😄: Student aiming to become game developer.
   ### :🏫: Attending korea animation high school.
   ### :🧠: Studying PS as a hobby
-    <!--Solved.ac-->
+  <!--Solved.ac-->
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fridayfreebie)](https://solved.ac/fridayfreebie/)
   <br/>
   <br/>
