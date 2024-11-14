@@ -2,14 +2,13 @@
 
   <!--Header-->
   ![header](https://capsule-render.vercel.app/api?type=venom&&color=auto&height=300&section=header&text=Yubin's%20Github&fontSize=60)
-  <!--방문자-->
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFRIDAYFREEBIE&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
+  <br/>
 </div>
 
 ---
 
 <div>
+  <br/>
   <!--Body-->
   
   ## 📄 My Stat
@@ -47,14 +46,16 @@
   <!--VScode-->
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <br/>
-  <br/>
 
   ## 🏆 Awards
   <!--게임대전-->
   ### 🥉 2023 청강 게임대전 Unity 동상 (기획, 청강문화산업대학교 주최)  
   ### 🥇 2024 청강 게임대전 Unity 대상 (프로그래밍, 청강문화산업대학교 주최)
   <br/>
-  <br/>
-
+  
 ---
-_Thank you for visiting my GitHub!._ 😊
+
+<br/>
+  _Thank you for visiting my GitHub!._ 😊
+  <!--방문자-->
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFRIDAYFREEBIE&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
