@@ -29,13 +29,13 @@
   
   ## 🙋‍♂️ About Me
   ### 🎮 Student aiming to become **game developer**
-    - I have experience as both a developer and a planner.
-    - This dual background has equipped me with strong project management skills and effective communication abilities.
-    - Of course, now I have decided on my career path as a developer.
+  - I have **experience as both a developer and a planner**.
+  - This dual background has equipped me with **strong project management skills and effective communication abilities**.
+  - Of course, now I have decided on my career path as a developer.
   ### 🏫 Attending **Korea Animation High School**
-    - During my three years of high school, I experienced **several team projects and individual projects**.
+  - During my three years of high school, I experienced **several team projects and individual projects**.
   ### 🧠 Studying **PS as a hobby**
-    - It's a hobby I recently started.
+  - I recently **started solving algorithm problems** as a hobby and study.
   <br/>
   
   ## 🛠️ Tools I Use
@@ -63,12 +63,12 @@
   ### 🥉 2023 청강 게임대전 with Unity - 동상
   - **Category**: Game Planning  
   - **Organizer**: ChungKang College of Cultural Industries
-  - Created a detailed game design plan under specific on-site conditions.
+  - **Created a detailed game design plan** under specific on-site conditions.
   
   ### 🥇 2024 청강 게임대전 with Unity - 대상
   - **Category**: Game Programming
   - **Organizer**: ChungKang College of Cultural Industries
-  - Successfully completed a fully functional game within a set timeframe using Unity and C#, incorporating advanced features based on a provided design plan.
+  - Successfully completed a fully functional game within a set timeframe using **Unity and C#**, incorporating advanced features based on a provided design plan.
   <br/>
   
   ## 🚀 Current Projects
@@ -76,7 +76,7 @@
   - **Goal**: Enhance problem-solving skills and programming proficiency through consistent practice.  
   - **Started On**: 2024-8-27
   - I’m not currently working on any game development projects.
-  - Instead, I’ve taken up a new hobby of solving algorithm challenges to take a short break and refresh my mind.
+  - Instead, I’ve taken up a new hobby of solving algorithm problems to take a short break and refresh my mind.
   - While it’s not directly related to game development, I believe it will contribute to improving my skills in the long run.
   <br/>
 
