@@ -12,14 +12,14 @@
   <!--GitHub stats-->
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FRIDAYFREEBIE)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FRIDAYFREEBIE&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FRIDAYFREEBIE)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FRIDAYFREEBIE&theme=dark&cache=30)](https://github.com/FRIDAYFREEBIE)
   <br/>
   <br/>
   
   ## 🙋‍♂️ About Me
-  ### 😄 Student aiming to become game developer.
-  ### 🏫 Attending korea animation high school.
-  ### 🧠 Studying PS as a hobby.
+  ### 😄 Student aiming to become **game developer**.
+  ### 🏫 Attending **korea animation high school**.
+  ### 🧠 Studying **PS as a hobby**.
   <!--Solved.ac-->
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fridayfreebie)](https://solved.ac/fridayfreebie/)
   <br/>
@@ -55,3 +55,6 @@
 
   <!--방문자-->
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFRIDAYFREEBIE&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+---
+_Thank you for visiting my GitHub!._ 😊
