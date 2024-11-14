@@ -10,16 +10,17 @@
   
   ## 📄 My Stat
   <!--GitHub stats-->
-  <!--Solved.ac-->
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fridayfreebie)](https://solved.ac/fridayfreebie/)
-  <br/>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FRIDAYFREEBIE)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   <br/>
   
-  ## 😀 About Me
+  ## 🙋‍♂️ About Me
   ### :😄: Student aiming to become game developer.
   ### :🏫: Attending korea animation high school.
+  ### :🧠: Studying PS as a hobby
+    <!--Solved.ac-->
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fridayfreebie)](https://solved.ac/fridayfreebie/)
+  <br/>
   <br/>
   
   ## 💻 Tech Stack
