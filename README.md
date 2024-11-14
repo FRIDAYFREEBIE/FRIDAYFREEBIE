@@ -1,4 +1,4 @@
-<div>
+<div style="text-align: center;">
 
   <!--Header-->
   ![header](https://capsule-render.vercel.app/api?type=venom&&color=auto&height=300&section=header&text=Yubin's%20Github&fontSize=60)
@@ -25,8 +25,6 @@
   ### 😄 Student aiming to become **game developer**.
   ### 🏫 Attending **Korea Animation High School**.
   ### 🧠 Studying **PS as a hobby**.
-  <!--Solved.ac-->
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fridayfreebie)](https://solved.ac/fridayfreebie/)
   <br/>
   <br/>
   
@@ -56,5 +54,3 @@
   <br/>
 
 </div>
-  
----
