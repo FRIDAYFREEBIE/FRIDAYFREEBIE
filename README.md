@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=venom&&color=auto&height=300&section=header&text=Yubin's%20Github%&fontSize=60)
+  ![header](https://capsule-render.vercel.app/api?type=venom&&color=auto&height=300&section=header&text=Yubin's%20Github&fontSize=60)
   
 </div>
 
@@ -15,9 +15,9 @@
   <br/>
   
   ## 🙋‍♂️ About Me
-  ### :😄: Student aiming to become game developer.
-  ### :🏫: Attending korea animation high school.
-  ### :🧠: Studying PS as a hobby
+  ### 😄 Student aiming to become game developer.
+  ### 🏫 Attending korea animation high school.
+  ### 🧠 Studying PS as a hobby
   <!--Solved.ac-->
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fridayfreebie)](https://solved.ac/fridayfreebie/)
   <br/>
@@ -46,8 +46,8 @@
 
   ## 🏆 Awards
   <!--게임대전-->
-  ### :🥉: 2023 청강 게임대전 with Unity 동상(기획)
-  ### :🥇: 2024 청강 게임대전 with Unity 대상(프로그래밍)
+  ### 🥉 2023 청강 게임대전 Unity 부문 동상 (기획, 청강문화산업대학교 주최)  
+  ### 🥇 2024 청강 게임대전 Unity 부문 대상 (프로그래밍, 청강문화산업대학교 주최)
   <br/>
   <br/>
 
