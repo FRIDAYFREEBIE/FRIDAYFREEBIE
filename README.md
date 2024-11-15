@@ -69,12 +69,12 @@
   <br/>
   
   ## 🏆 Awards
-  ### 🥉 2023 청강 게임대전 with Unity - 동상
+  ### 🥉 2023 청강 게임대전 with Unity - 동상(Bronze Medal)
   - **Category**: Game Planning  
   - **Organizer**: ChungKang College of Cultural Industries
   - **Created a detailed game design plan** under specific on-site conditions.
   
-  ### 🥇 2024 청강 게임대전 with Unity - 대상
+  ### 🥇 2024 청강 게임대전 with Unity - 대상(Grand Prize)
   - **Category**: Game Programming
   - **Organizer**: ChungKang College of Cultural Industries
   - Successfully completed a fully functional game within a set timeframe using **Unity and C#**, incorporating advanced features based on a provided design plan.
