@@ -33,9 +33,7 @@
 
   <br/>
   
-  ## 🙋‍♂️ About Me
-  ### 🎮 Student aiming to become **game developer**
-  - I have **experience as both a developer and a planner**.
+  ## 🙋‍♂️ **My goal is to become a skilled and communicative game programmer.**  
   ### 🏫 Attending **Korea Animation High School**
   - During my three years of high school, I experienced **several team projects and individual projects**.
   ### 🧠 Studying **PS as a hobby**
