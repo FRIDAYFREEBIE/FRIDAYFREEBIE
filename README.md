@@ -25,16 +25,19 @@
   | GitHub Streak | Languages | Solved.ac |
   |---------------|-----------|-----------|
   | [![GitHub Streak](https://streak-stats.demolab.com/?user=FRIDAYFREEBIE)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FRIDAYFREEBIE&layout=compact&langs_count=6&cache_seconds=600)](https://github.com/anuraghazra/github-readme-stats) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fridayfreebie)](https://solved.ac/fridayfreebie) |
-
-
   <br/>
   
-  ## 🙋‍♂️ **My goal is to become a skilled and communicative game programmer.**  
-  ### 🏫 Attending **Korea Animation High School**
-  - During my three years of high school, I experienced **several team projects and individual projects**.
-  ### 🧠 Studying **PS as a hobby**
-  - I recently **started solving algorithm problems** as a hobby and study.
-  <br/>
+## 🙋‍♂️ **About Me**  
+### 🏫 Attending **Korea Animation High School**  
+- Over the past three years, I have participated in **various team and individual projects**.
+
+### 🧠 Studying **PS as a hobby**  
+- I recently **began solving algorithm problems** as both a hobby and a way to enhance my problem-solving skills.  
+
+### 🎯 **My Goal**  
+- To become a skilled and communicative game programmer.
+<br/>
+
   
   ## 🛠️ Tools I Use
   ### Programming Language
