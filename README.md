@@ -14,9 +14,9 @@
 ---
 
 ## 📊 My GitHub Overview
-| GitHub Streak | Languages | Solved.ac |
-|---------------|-----------|-----------|
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=FRIDAYFREEBIE)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FRIDAYFREEBIE&layout=compact&langs_count=6&cache_seconds=600)](https://github.com/anuraghazra/github-readme-stats) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fridayfreebie)](https://solved.ac/fridayfreebie) |
+| GitHub Streak | Solved.ac |
+|---------------|-----------|
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=FRIDAYFREEBIE)](https://git.io/streak-stats) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fridayfreebie)](https://solved.ac/fridayfreebie) |
 
 ---
 
