@@ -52,7 +52,6 @@
 ### 💻 [Algorithm Problem Solving](https://github.com/FRIDAYFREEBIE/Algorithm)
 - **Goal**: Enhance problem-solving skills and programming proficiency through consistent practice.  
 - **Started On**: 2024-08-27  
-- Currently taking a break and focusing on studying algorithms.
 
 ---
 
