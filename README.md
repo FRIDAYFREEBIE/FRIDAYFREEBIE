@@ -22,7 +22,7 @@
 
 ## 😊 **About Me**
 ### 🎯 **My Goal**  
-- To become a skilled and communicative game programmer.
+- To become a **skilled and communicative** game programmer.
 
 ### 🏫 Attending **Korea Animation High School**  
 - Over the past three years, I have participated in **various team and individual projects**.
