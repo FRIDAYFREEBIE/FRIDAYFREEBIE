@@ -36,8 +36,6 @@
   ## 🙋‍♂️ About Me
   ### 🎮 Student aiming to become **game developer**
   - I have **experience as both a developer and a planner**.
-  - This dual background has equipped me with **strong project management skills and effective communication abilities**.
-  - Of course, now I have decided on my career path as a developer.
   ### 🏫 Attending **Korea Animation High School**
   - During my three years of high school, I experienced **several team projects and individual projects**.
   ### 🧠 Studying **PS as a hobby**
@@ -70,20 +68,19 @@
   - **Goal**: Enhance problem-solving skills and programming proficiency through consistent practice.  
   - **Started On**: 2024-8-27
   - I’m not currently working on any game development projects.
-  - Instead, I’ve taken up a new hobby of solving algorithm problems to take a short break and refresh my mind.
-  - While it’s not directly related to game development, I believe it will contribute to improving my skills in the long run.
+  - Currently focusing on algorithms to refresh my mindset and indirectly improve game development abilities.
   <br/>
   
   ## 🏆 Awards
   ### 🥉 2023 청강 게임대전 with Unity - 동상(Bronze Medal)
   - **Category**: Game Planning  
   - **Organizer**: ChungKang College of Cultural Industries
-  - **Created a detailed game design plan** under specific on-site conditions.
+  - Created a game plan within specific constraints. 
   
   ### 🥇 2024 청강 게임대전 with Unity - 대상(Grand Prize)
-  - **Category**: Game Programming
+  - **Category**: Game Programming  
   - **Organizer**: ChungKang College of Cultural Industries
-  - Successfully completed a fully functional game within a set timeframe using **Unity and C#**, incorporating advanced features based on a provided design plan.
+  - Built a fully functional game using **Unity and C#** within a tight schedule.
   <br/>
 
   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFRIDAYFREEBIE&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
