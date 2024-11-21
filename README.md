@@ -10,7 +10,8 @@
 ## 📧 How to Reach Me
 
 | ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) | ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white) |
-| **sheepyubin06@gmail.com**                                | **yubin1121**                                  |
+|------------------------------------------------------------|---------------------------------------------------------------|
+| **sheepyubin06@gmail.com**                                 | **yubin1121**                                                 |
 
 ---
 
