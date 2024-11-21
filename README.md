@@ -20,7 +20,7 @@
 
 ---
 
-## 🙋‍♂️ **About Me**
+## 😊 **About Me**
 ### 🎯 **My Goal**  
 - To become a skilled and communicative game programmer.
 
