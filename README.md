@@ -7,13 +7,17 @@
 
 ---
 
-## 📧 How to Reach Me 
-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)&nbsp;&nbsp;&nbsp;**sheepyubin06@gmail.com**
-- ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)&nbsp;&nbsp;&nbsp;**yubin1121**
+## 📧 How to Reach Me
+
+| Platform | Contact Information |
+|----------|----------------------|
+| ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) | **sheepyubin06@gmail.com** |
+| ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white) | **yubin1121** |
 
 ---
 
 ## 📊 My GitHub Overview
+
 | GitHub Streak | Solved.ac |
 |---------------|-----------|
 | [![GitHub Streak](https://streak-stats.demolab.com/?user=FRIDAYFREEBIE)](https://git.io/streak-stats) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fridayfreebie)](https://solved.ac/fridayfreebie) |
@@ -21,6 +25,7 @@
 ---
 
 ## 😊 **About Me**
+
 ### 🎯 **My Goal**  
 - To become a **skilled and communicative** game programmer.
 
@@ -54,6 +59,7 @@
 ---
 
 ## 🏆 Awards
+
 ### 🥉 2023 청강 게임대전 with Unity - 동상 (Bronze Medal)
 - **Category**: Game Planning  
 - **Organizer**: ChungKang College of Cultural Industries  
