@@ -66,6 +66,7 @@
 ### 🥇 2024 청강 게임대전 with Unity - 대상 (Grand Prize)
 - **Category**: Game Programming  
 - **Organizer**: ChungKang College of Cultural Industries  
+- **Project**: [Soar-Rise (Public Repository)](https://github.com/FRIDAYFREEBIE/Soar-Rise-public)
 
 ---
 
