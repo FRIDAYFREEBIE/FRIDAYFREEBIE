@@ -21,14 +21,14 @@
 ---
 
 ## 🙋‍♂️ **About Me**
+### 🎯 **My Goal**  
+- To become a skilled and communicative game programmer.
+- 
 ### 🏫 Attending **Korea Animation High School**  
 - Over the past three years, I have participated in **various team and individual projects**, gaining hands-on experience in game development.  
 
 ### 🧠 Studying **PS as a hobby**  
 - I recently **began solving algorithm problems** as both a hobby and a way to enhance my problem-solving skills.  
-
-### 🎯 **My Goal**  
-- To become a skilled and communicative game programmer.
 
 ---
 
