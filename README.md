@@ -67,20 +67,17 @@
   ### 💻 [Algorithm Problem Solving](https://github.com/FRIDAYFREEBIE/Algorithm)
   - **Goal**: Enhance problem-solving skills and programming proficiency through consistent practice.  
   - **Started On**: 2024-8-27
-  - I’m not currently working on any game development projects.
-  - Currently focusing on algorithms to refresh my mindset and indirectly improve game development abilities.
+  - I'm currently taking a break and studying algorithms.
   <br/>
   
   ## 🏆 Awards
   ### 🥉 2023 청강 게임대전 with Unity - 동상(Bronze Medal)
   - **Category**: Game Planning  
   - **Organizer**: ChungKang College of Cultural Industries
-  - Created a game plan within specific constraints. 
   
   ### 🥇 2024 청강 게임대전 with Unity - 대상(Grand Prize)
-  - **Category**: Game Programming  
+  - **Category**: Game Programming 
   - **Organizer**: ChungKang College of Cultural Industries
-  - Built a fully functional game using **Unity and C#** within a tight schedule.
   <br/>
 
   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFRIDAYFREEBIE&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
