@@ -8,8 +8,8 @@
 ---
 
 ## 📧 How to Reach Me 
-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) **sheepyubin06@gmail.com**
-- ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white) **yubin1121**
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)  **sheepyubin06@gmail.com**
+- ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)  **yubin1121**
 
 ---
 
