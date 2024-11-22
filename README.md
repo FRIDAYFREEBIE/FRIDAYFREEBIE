@@ -36,14 +36,6 @@
 
 ---
 
-## 🚀 Current Projects
-
-### 💻 [Algorithm Problem Solving](https://github.com/FRIDAYFREEBIE/Algorithm)
-- **Goal**: Enhance problem-solving skills and programming proficiency through consistent practice.  
-- **Started On**: 2024-08-27  
-
----
-
 ## 🏆 Awards
 
 ### 🥉 2023 청강 게임대전 with Unity - 동상 (Bronze Medal)
