@@ -9,9 +9,9 @@
 
 ## 📧 How to Reach Me
 
-| ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) | ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white) |
-|------------------------------------------------------------|---------------------------------------------------------------|
-| **sheepyubin06@gmail.com**                                 | **yubin1121**                                                 |
+| ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) | ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white) | ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white) |
+|------------------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------------------|
+| **sheepyubin06@gmail.com**                                 | **yubin1121**                                                 | **[dorooooo__](https://www.instagram.com/dorooooo__)**          |
 
 ---
 
