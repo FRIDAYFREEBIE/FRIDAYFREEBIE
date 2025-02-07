@@ -46,5 +46,7 @@
 - **Category**: 게임 프로그래밍  
 - **Organizer**: 청강문화산업대학교div style="text-align: center;">
 
-  <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=venom&&color=auto&height=300&section=header&text=Yubin's%20Github&fontSize=60)
+---
+
+![Profile Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/FRIDAYFREEBIE&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+
