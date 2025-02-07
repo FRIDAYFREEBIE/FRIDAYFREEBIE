@@ -45,7 +45,7 @@
 ### 🥇 2024 청강 게임대전 with Unity - 대상 (Grand Prize)
 - **분야**: 게임 프로그래밍  
 - **주최**: 청강문화산업대학교
-- **프로젝트**: [![깃허브 레포지토리](https://github.com/FRIDAYFREEBIE/Soar-Rise-public)
+- **프로젝트**: [깃허브 레포지토리](https://github.com/FRIDAYFREEBIE/Soar-Rise-public)
 
 ---
 
