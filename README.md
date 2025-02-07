@@ -9,9 +9,10 @@
 
 ## 📧 How to Reach Me
 
-| ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) | ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white) | ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white) |
-|------------------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------------------|
-| **sheepyubin06@gmail.com**                                 | **yubin1121**                                                 | **[dorooooo__](https://www.instagram.com/dorooooo__)**          |
+| ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) | ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white) | ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white) | ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) |
+|------------------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------|
+| **sheepyubin06@gmail.com**                                 | **yubin1121**                                                 | **[![Instagram](https://img.shields.io/badge/dorooooo__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dorooooo__)** | **[![YouTube](https://img.shields.io/badge/FRIDAYFREEBIE1121-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@FRIDAYFREEBIE1121)** |
+
 
 ---
 
