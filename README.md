@@ -20,6 +20,7 @@
 | ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) | ![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white) |
 |---------------------------------------------------------------|---------------------------------------------------------------|
 | **[FRIDAYFREEBIE1514](https://www.youtube.com/@FRIDAYFREEBIE1514)** | **[fridayfreebie](https://velog.io/@fridayfreebie/posts)** |
+> 유튜브는 팀 작업물 공유를, 벨로그는 학습 기록을 위해 사용하고 있습니다.
 
 ---
 
