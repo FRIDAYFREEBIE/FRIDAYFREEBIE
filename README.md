@@ -9,9 +9,13 @@
 
 ## 📧 연락처
 
-| ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) | ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white) | ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white) | ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) | ![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white) |
-|------------------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|
-| **fridayfreebie1514@gmail.com**                                 | **fridayfreebie**                                                 | **[dorooooo__](https://www.instagram.com/dorooooo__)**          | **[FRIDAYFREEBIE1514](https://www.youtube.com/@FRIDAYFREEBIE1514)** | **[fridayfreebie](https://velog.io/@fridayfreebie/posts)** |
+| ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) | ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white) | ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white) |
+|------------------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------------------|
+| **fridayfreebie1514@gmail.com**                            | **fridayfreebie**                                             | **[dorooooo__](https://www.instagram.com/dorooooo__)**          |
+
+| ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) | ![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white) |
+|---------------------------------------------------------------|---------------------------------------------------------------|
+| **[FRIDAYFREEBIE1514](https://www.youtube.com/@FRIDAYFREEBIE1514)** | **[fridayfreebie](https://velog.io/@fridayfreebie/posts)** |
 
 ---
 
