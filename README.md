@@ -15,7 +15,7 @@
 
 ---
 
-## 🖼️ 기
+## 🖼️ 기록
 
 | ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) | ![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white) |
 |---------------------------------------------------------------|---------------------------------------------------------------|
