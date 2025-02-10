@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
-  <!--Header-->
+<!--Header-->
 ![header](https://capsule-render.vercel.app/api?type=venom&&color=auto&height=300&section=header&text=Yubin's%20GitHub&fontSize=70&fontAlign=50)
 
 </div>
@@ -15,7 +15,7 @@
 
 ---
 
-## 🖼️ 기록
+## 📖 블로그
 
 | ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) | ![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white) |
 |---------------------------------------------------------------|---------------------------------------------------------------|
