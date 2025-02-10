@@ -13,13 +13,17 @@
 |------------------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------------------|
 | **fridayfreebie1514@gmail.com**                            | **fridayfreebie**                                             | **[dorooooo__](https://www.instagram.com/dorooooo__)**          |
 
+---
+
+## 🖼️ 기
+
 | ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) | ![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white) |
 |---------------------------------------------------------------|---------------------------------------------------------------|
 | **[FRIDAYFREEBIE1514](https://www.youtube.com/@FRIDAYFREEBIE1514)** | **[fridayfreebie](https://velog.io/@fridayfreebie/posts)** |
 
 ---
 
-## 📊 깃허브
+## 📊 활동 통계
 
 | GitHub Streak | Solved.ac |
 |---------------|-----------|
