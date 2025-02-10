@@ -1,7 +1,7 @@
 <div style="text-align: center;">
 
 <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=venom&&color=auto&height=300&section=header&text=Yubin's%20GitHub&fontSize=70&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Yubin's%20GitHub&fontSize=70&fontAlign=50&fontColor=000000)
 
 </div>
 
