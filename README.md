@@ -27,7 +27,7 @@
 
 | GitHub Streak | Solved.ac |
 |---------------|-----------|
-|[![GitHub Streak](https://streak-stats.demolab.com/?user=FRIDAYFREEBIE)](https://git.io/streak-stats) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fridayfreebie)](https://solved.ac/fridayfreebie) |
+|[![GitHub Streak](https://streak-stats.demolab.com/?user=FRIDAYFREEBIE)](https://git.io/streak-stats) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fridayfreebie&cache=${Math.random()})](https://solved.ac/fridayfreebie) |
 
 ---
 
