@@ -17,9 +17,9 @@
 
 ## 📖 블로그
 
-| ![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white) |
+| ![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white) |
 |---------------------------------------------------------------|
-| **[fridayfreebie](https://velog.io/@fridayfreebie/posts)** |
+| **[fridayfreebie.tistory.com](https://fridayfreebie.tistory.com/)** |
 
 ---
 
@@ -27,7 +27,7 @@
 
 | GitHub Streak | Solved.ac |
 |---------------|-----------|
-|[![GitHub Streak](https://streak-stats.demolab.com/?user=FRIDAYFREEBIE)](https://git.io/streak-stats) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fridayfreebie&cache=${Math.random()})](https://solved.ac/fridayfreebie) |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=FRIDAYFREEBIE)](https://git.io/streak-stats) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fridayfreebie&cache=${Math.random()})](https://solved.ac/fridayfreebie) |
 
 ---
 
@@ -54,8 +54,3 @@
 - **분야**: 게임 프로그래밍  
 - **주최**: 청강문화산업대학교
 - **프로젝트**: [Github 레포지토리](https://github.com/FRIDAYFREEBIE/Soar-Rise-public)
-
----
-
-![Profile Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/FRIDAYFREEBIE&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
-
