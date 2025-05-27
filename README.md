@@ -15,6 +15,7 @@
 
 ---
 
+<!-- 깃허브 커밋 스트릭과 알고리즘 풀이 현황을 보여주는 섹션입니다 -->
 ## 📖 블로그
 
 | ![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white) |
@@ -55,3 +56,7 @@
 - **분야**: 게임 프로그래밍  
 - **주최**: 청강문화산업대학교
 - **프로젝트**: [Github 레포지토리](https://github.com/FRIDAYFREEBIE/Soar-Rise-public)
+
+---
+
+<p align="center"><i style="color:gray;">📬 Contact me for collaboration!</i></p>
