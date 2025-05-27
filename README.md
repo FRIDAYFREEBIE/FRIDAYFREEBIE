@@ -15,7 +15,6 @@
 
 ---
 
-<!-- 깃허브 커밋 스트릭과 알고리즘 풀이 현황을 보여주는 섹션입니다 -->
 ## 📖 블로그
 
 | ![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white) |
@@ -59,4 +58,6 @@
 
 ---
 
-<p align="center"><i style="color:gray;">📬 Contact me for collaboration!</i></p>
+<p align="center">
+  <span style="opacity:0.6; font-size:18px;"><i>📬 함께할 프로젝트가 있다면 언제든지 연락해주세요!</i></span>
+</p>
