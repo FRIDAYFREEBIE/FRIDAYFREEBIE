@@ -59,5 +59,5 @@
 ---
 
 <p align="center">
-  <span style="opacity:0.6; font-size:18px;"><i>📬 함께할 프로젝트가 있다면 언제든지 연락해주세요!</i></span>
+  <span style="opacity:0.6; font-size:18px;"><i>📬 Contact me for collaboration</i></span>
 </p>
