@@ -44,9 +44,6 @@
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 
-### Unreal Systems
-<img src="https://img.shields.io/badge/Gameplay%20Ability%20System-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-
 ### Version Control & Collaboration
 <img src="https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/GitHub%20Fork-000000?style=for-the-badge&logo=github&logoColor=white"/>
