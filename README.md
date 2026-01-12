@@ -44,6 +44,9 @@
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 
+### 언리얼 시스템
+<img src="https://img.shields.io/badge/Gameplay%20Ability%20System-GAS-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+
 ---
 
 ## 🏆 수상 이력
