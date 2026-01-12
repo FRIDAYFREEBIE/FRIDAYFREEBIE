@@ -44,8 +44,8 @@
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 
-### Unreal Engine (Advanced)
-<img src="https://img.shields.io/badge/Gameplay%20Ability%20System-Ability%20Framework-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+### Unreal 시스템
+<img src="https://img.shields.io/badge/Gameplay%20Ability%20System-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 
 ---
 
