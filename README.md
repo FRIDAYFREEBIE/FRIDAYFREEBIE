@@ -20,7 +20,7 @@
 | Platform | Link |
 |----------|------|
 | ![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white) | **[fridayfreebie.tistory.com](https://fridayfreebie.tistory.com/)** |
-| ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) | **[Yubin Yang YouTube](https://www.youtube.com/@yubinyang/videos)** |
+| ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) | **[YouTube](https://www.youtube.com/@yubinyang/videos)** |
 
 ---
 
