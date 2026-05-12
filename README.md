@@ -16,10 +16,11 @@
 
 # Gameplay Programmer
 
-Interested in building gameplay systems across  
-Unreal Engine, Unity, and scalable game architectures.
+Interested in building gameplay systems across Unreal Engine, Unity, and scalable game architectures.
 
 </div>
+
+<div align="left">
 
 Experienced in:
 
@@ -38,6 +39,8 @@ Experienced in:
   - Problem Solving
   - AI & Pathfinding
   - Procedural Generation
+
+</div>
 
 ---
 
