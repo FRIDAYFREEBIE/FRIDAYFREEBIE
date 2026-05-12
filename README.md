@@ -1,25 +1,33 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Yubin's%20GitHub&fontSize=70&fontAlign=50&fontColor=000000)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Yubin's%20GitHub&fontSize=70&fontAlign=50&fontColor=FFFFFF"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Yubin's%20GitHub&fontSize=70&fontAlign=50&fontColor=000000"
+  />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Yubin's%20GitHub&fontSize=70&fontAlign=50" />
+</picture>
 
 # Gameplay Programmer
 
-Focused on:
-**Turn-Based Combat Systems · Gameplay Architecture · Unreal Engine 5 · GAS**
-
-Currently developing gameplay systems and combat architectures with
-Unreal Engine 5, C++, Gameplay Ability System (GAS), and Gameplay Tags.
+Interested in building gameplay systems across
+Unreal Engine, Unity, and scalable game architectures.
 
 Experienced in:
-- Turn-based combat systems
-- Gameplay Ability System (GAS)
-- Network programming (TCP / UDP)
-- AI & gameplay architecture
-- Blueprint/C++ hybrid workflows
-- Team collaboration with Git
-
-</div>
-
+- Unreal Engine 5
+  - Gameplay Ability System (GAS)
+- Unity
+- C++ / C#
+- TCP / UDP Networking
+- MySQL
+- Algorithms
+  - PS
+  - AI, Pathfinding
+  - Generation
 ---
 
 ## 📧 Contact
