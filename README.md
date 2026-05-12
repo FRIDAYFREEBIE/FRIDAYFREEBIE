@@ -25,9 +25,9 @@ Experienced in:
 - TCP / UDP Networking
 - MySQL
 - Algorithms
-  - PS
-  - AI, Pathfinding
-  - Generation
+  - Problem Solving
+  - AI & Pathfinding
+  - Procedural Generation
 ---
 
 ## 📧 Contact
