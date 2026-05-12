@@ -62,25 +62,18 @@ Experienced in:
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 
-### Gameplay & Networking
-<img src="https://img.shields.io/badge/GAS-5C2D91?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GameplayTags-1E90FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TCP-555555?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UDP-777777?style=for-the-badge"/>
-
 ### Version Control & Collaboration
 <img src="https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Fork-000000?style=for-the-badge&logo=git&logoColor=white"/>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Current projects
 
 | Project | Description |
 |---------|-------------|
 | **ChronoBreak** | UE5 Turn-Based RPG focused on scalable combat and gameplay systems |
-| **UDP Car Game** | Unity + C# multiplayer racing project using UDP networking |
-| **TCP Chat Program** | Multi-threaded TCP chat server/client implementation |
+| **UDP Car Game** | Unity + C# multiplayer racing project using UDP networking and database(MySQL)|
 | **Maze Runner** | Procedural maze generation & pathfinding project |
 | **Soar Rise** | Award-winning Unity project with AI and gameplay systems |
 
@@ -98,11 +91,6 @@ Experienced in:
 - **Project**: [Soar Rise Repository](https://github.com/FRIDAYFREEBIE/Soar-Rise-public)
 
 ---
-
-<div align="center">
-
-### 🎮 Currently Focused On
-Unreal Engine 5 · Gameplay Ability System · Combat Architecture · Gameplay Programming
 
 🙌 *Thank you for visiting my GitHub profile.*
 
