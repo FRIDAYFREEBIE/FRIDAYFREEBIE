@@ -12,22 +12,33 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Yubin's%20GitHub&fontSize=70&fontAlign=50" />
 </picture>
 
+<div align="center">
+
 # Gameplay Programmer
 
 Interested in building gameplay systems across
 Unreal Engine, Unity, and scalable game architectures.
 
+</div>
+
 Experienced in:
+
 - Unreal Engine 5
   - Gameplay Ability System (GAS)
+
 - Unity
+
 - C++ / C#
+
 - TCP / UDP Networking
+
 - MySQL
+
 - Algorithms
   - Problem Solving
   - AI & Pathfinding
   - Procedural Generation
+
 ---
 
 ## 📧 Contact
