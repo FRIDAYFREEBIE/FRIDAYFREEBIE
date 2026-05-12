@@ -16,7 +16,9 @@
 
 # Gameplay Programmer
 
-**Interested in building gameplay systems across Unreal Engine, Unity, and scalable game architectures.**
+**Focused on designing scalable gameplay architectures with object-oriented principles and reusable system design.**
+
+Passionate about creating maintainable combat systems and gameplay frameworks through clean architecture, appropriate design patterns, and algorithm-driven problem solving.
 
 </div>
 
@@ -24,19 +26,24 @@
 
 - Unreal Engine 5
   - Gameplay Ability System (GAS)
+  - Turn-Based Combat Architecture
+  - Skill & Status Effect Systems
 
 - Unity
 
 - C++ / C#
+  - Object-Oriented Programming
+  - Design Patterns
+  - System Architecture
 
 - TCP / UDP Networking
 
 - MySQL
 
 - Algorithms
-  - Problem Solving
   - AI & Pathfinding
   - Procedural Generation
+  - Optimization & Problem Solving
 
 </div>
 
