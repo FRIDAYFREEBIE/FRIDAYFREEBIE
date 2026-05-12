@@ -16,7 +16,7 @@
 
 # Gameplay Programmer
 
-Interested in building gameplay systems across
+Interested in building gameplay systems across  
 Unreal Engine, Unity, and scalable game architectures.
 
 </div>
