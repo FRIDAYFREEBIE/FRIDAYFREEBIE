@@ -16,13 +16,11 @@
 
 # Gameplay Programmer
 
-Interested in building gameplay systems across Unreal Engine, Unity, and scalable game architectures.
+**Interested in building gameplay systems across Unreal Engine, Unity, and scalable game architectures.**
 
 </div>
 
 <div align="left">
-
-Experienced in:
 
 - Unreal Engine 5
   - Gameplay Ability System (GAS)
