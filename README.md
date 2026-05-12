@@ -88,17 +88,6 @@
 
 ---
 
-## 🚀 Current projects
-
-| Project | Description |
-|---------|-------------|
-| **ChronoBreak** | UE5 Turn-Based RPG focused on scalable combat and gameplay systems |
-| **UDP Car Game** | Unity + C# multiplayer racing project using UDP networking and database(MySQL)|
-| **Maze Runner** | Procedural maze generation & pathfinding project |
-| **Soar Rise** | Award-winning Unity project with AI and gameplay systems |
-
----
-
 ## 🏆 Awards
 
 ### 🥉 2023 ChungKang Game Contest with Unity — Bronze Prize
