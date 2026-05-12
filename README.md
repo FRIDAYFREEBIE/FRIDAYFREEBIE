@@ -16,9 +16,7 @@
 
 # Gameplay Programmer
 
-**Focused on designing scalable gameplay architectures with object-oriented principles and reusable system design.**
-
-Passionate about creating maintainable combat systems and gameplay frameworks through clean architecture, appropriate design patterns, and algorithm-driven problem solving.
+**Passionate about creating maintainable combat systems and gameplay frameworks through clean architecture, appropriate design patterns, and algorithm-driven problem solving.**
 
 </div>
 
